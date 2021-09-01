@@ -19,7 +19,7 @@ class IconTextCard extends StatelessWidget {
                   backgroundImage: AssetImage('assets/images/tensiometer.png')),
               trailing: PrimaryCardButton(
                 disabled: true,
-                title: 'Registrar',
+                title: 'Registrarse',
                 icon: Icons.chevron_right,
               ),
               title: Text('Tensión arterial'),
